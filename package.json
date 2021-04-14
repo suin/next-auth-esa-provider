@@ -1,6 +1,6 @@
 {
   "name": "@suin/next-auth-esa-provider",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "esa.io OAuth provider for Next Auth.",
   "keywords": [
     "next-auth",
